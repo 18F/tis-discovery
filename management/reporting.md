@@ -22,4 +22,4 @@
 
 #### Presentation
 
-* The team will prepare a discovery summary presentation for the OPP Associate Commissioner and the Incubator Governance Board to request product development funding, if research findings and acquisition integrations look promising.  See Discovery Strategy deliverables for more information
+* The team will prepare a discovery summary presentation for the OPP Associate Commissioner and the Incubator Governance Board to request product development funding, if research findings and acquisition integrations look promising.  See [Discovery Strategy](https://docs.google.com/document/d/1WCedRaHZ4ycI_fw3ns906euvfoyBqFzgJH40e9948w4/edit) deliverables for more information
