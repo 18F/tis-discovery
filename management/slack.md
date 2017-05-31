@@ -1,5 +1,5 @@
 # Team Integration System
-## Project Boards
+## Slack Channels
 
 
 | Name               | Purpose                                                    |
