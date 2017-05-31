@@ -10,9 +10,9 @@ We are conducting a Team Integration System discovery that will consist of marke
 
 #### Operations
 
-**Staffing**: [Discovery staffing issue](https://github.com/18F/staffing-and-resources/issues/347)
-**Timeline**: [Float project timeline](https://18f.float.com/?project=P%26P+%2F+OPP+%2F+Team+Integration+System)
-**Scope**: [Discovery Strategy](https://docs.google.com/document/d/1WCedRaHZ4ycI_fw3ns906euvfoyBqFzgJH40e9948w4/edit)
+* **Staffing**: [Discovery staffing issue](https://github.com/18F/staffing-and-resources/issues/347)
+* **Timeline**: [Float project timeline](https://18f.float.com/?project=P%26P+%2F+OPP+%2F+Team+Integration+System)
+* **Scope**: [Discovery Strategy](https://docs.google.com/document/d/1WCedRaHZ4ycI_fw3ns906euvfoyBqFzgJH40e9948w4/edit)
 
 #### Collaboration
 
