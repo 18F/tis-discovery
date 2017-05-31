@@ -12,7 +12,7 @@ We are conducting a Team Integration System discovery that will consist of marke
 
 * **Staffing**: [Discovery staffing issue](https://github.com/18F/staffing-and-resources/issues/347)
 * **Timeline**: [Float project timeline](https://18f.float.com/?project=P%26P+%2F+OPP+%2F+Team+Integration+System)
-* **Scope**: [Discovery Strategy](https://docs.google.com/document/d/1WCedRaHZ4ycI_fw3ns906euvfoyBqFzgJH40e9948w4/edit)
+* **Scope**: [Discovery Strategy](https://github.com/18F/tis-discovery/blob/master/management/strategy.md)
 
 #### Collaboration
 
@@ -26,7 +26,7 @@ We are conducting a Team Integration System discovery that will consist of marke
 
 * We’ll adopt and live by this **Team Charter** for the life of the discovery project.  We’ll amend the strategy through team consensus.  The Business Owner, representing the host organization, will be a tie breaker if we can’t reach consensus.
 
-* We’ll adopt and follow a [Discovery Strategy](https://docs.google.com/document/d/1WCedRaHZ4ycI_fw3ns906euvfoyBqFzgJH40e9948w4/edit) for the life of the discovery project.  We’ll amend the strategy through team consensus.  The Portfolio Owner, representing the client, will be a tie breaker if we can’t reach consensus.
+* We’ll adopt and follow a [Discovery Strategy](https://github.com/18F/tis-discovery/blob/master/management/strategy.md) for the life of the discovery project.  We’ll amend the strategy through team consensus.  The Portfolio Owner, representing the client, will be a tie breaker if we can’t reach consensus.
 
 * Each of us will lead one track of research, and we’ll collaborate closely on deliverables and communication.
 
