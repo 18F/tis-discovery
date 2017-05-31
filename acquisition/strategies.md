@@ -8,7 +8,7 @@ FAS PSC and Region 10 maintain the Professional Services Schedule which is the c
 
 #### Strategies
 
-1. Professional Services Schedule - The Professional Services Schedule is the central marketplace for professional services acquisitions at GSA, so integration with that vehicle is considered necessary.  The FAS PSC team is also trying to reinvent professional services in government, have been supportive in lending TIS ideas and feedback in the past, and have worked well with TTS on acquisition products like CALC and OASIS.  PSC has a team of COs with a lot of experience in professional services acquisitions and boilerplate contracting language.
+1. **Professional Services Schedule** - The Professional Services Schedule is the central marketplace for professional services acquisitions at GSA, so integration with that vehicle is considered necessary.  The FAS PSC team is also trying to reinvent professional services in government, have been supportive in lending TIS ideas and feedback in the past, and have worked well with TTS on acquisition products like CALC and OASIS.  PSC has a team of COs with a lot of experience in professional services acquisitions and boilerplate contracting language.
 
 ### FAS Information Technology Category Division (ITC)
 
@@ -16,7 +16,7 @@ FAS ITC maintains the GSA GWACs portfolio, which often have very efficient terms
 
 #### Strategies
 
-1. GWAC Alliant Acquisition - The GWAC Alliant vehicle allows for quick selection of desired vendors if the order is under a specific amount ($4M when I last checked).  We can order professional services from GWAC vendors and the cost is low.  This strategy might require us to find a skilled and interested CO to help shepherd the contract along.  ITC has boilerplate contracting language that can help with the contracting process.
+1. **GWAC Alliant Acquisition** - The GWAC Alliant vehicle allows for quick selection of desired vendors if the order is under a specific amount ($4M when I last checked).  We can order professional services from GWAC vendors and the cost is low.  This strategy might require us to find a skilled and interested CO to help shepherd the contract along.  ITC has boilerplate contracting language that can help with the contracting process.
 
 ### FAS National Capital Region (NCR)
 
@@ -24,7 +24,7 @@ FAS NCR maintains one or more BPAs to acquire independent contractors through st
 
 #### Strategies
 
-1. Independent Contractor BPA - The FAS NCR region has been working on BPAs over time to flexibly hire independent contractors using proxy staffing firms that handle a lot of the private sector negotiation, contracts, and management.  This option has a lot of potential for engaging directly to independent professionals (a key goal of this project).  NCR has executed some contracts off of these BPAs and has boilerplate contract language we can use.  They can also provide billable CO activities.
+1. **Independent Contractor BPA** - The FAS NCR region has been working on BPAs over time to flexibly hire independent contractors using proxy staffing firms that handle a lot of the private sector negotiation, contracts, and management.  This option has a lot of potential for engaging directly to independent professionals (a key goal of this project).  NCR has executed some contracts off of these BPAs and has boilerplate contract language we can use.  They can also provide billable CO activities.
 
 ### New Integration Partners…
 
