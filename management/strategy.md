@@ -28,7 +28,7 @@ The TIS discovery project is divided into three tracks; **Research**, **Acquisit
 
 #### Team
 
-This discovery project is managed through collaborative standards that live in the [Discovery Team Charter](https://docs.google.com/document/d/1JdgPMguZQeSJuh4n9oabUT1xFq67g3fR6VHVgFf_0Yo/edit).  The team charter outlines all operational guidelines for the team, and defines governance procedures for the discovery strategy.
+This discovery project is managed through collaborative standards that live in the [Discovery Team Charter](https://github.com/18F/tis-discovery/blob/master/management/charter.md).  The team charter outlines all operational guidelines for the team, and defines governance procedures for the discovery strategy.
 
 #### Deliverables
 
