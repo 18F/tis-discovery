@@ -1,0 +1,7 @@
+# Team Integration System
+## Problem
+
+
+The current team building process inside the federal government can be challenging. Hiring new members as government employees involves a lengthy process, contracting staff are frequently in short supply and high demand, sourcing for the right contractors for a particular project can be difficult, and managers can encounter lengthy delays in authorizations and reviews. Often, in order to minimize the effects of these barriers to effective team building, government agencies employ a monolithic contracting strategy, one based on brittle requirements extended over multi-year performance periods, where the actual project requirements are often procured as a separate contract.  This monolithic procurement strategy is neither efficient nor cost-effective for actual delivery.  This approach also tends to disadvantage small businesses and independent consultants, who have a lot to offer the government.
+
+The ability to flexibly assign current employees to carry out organizational needs can be an efficient and cost-effective solution.  However, organizations are not able to employ all of the talent they need long-term for financial, political, and logistical reasons.
