@@ -43,6 +43,7 @@ At least one successful **pilot acquisition** of a contractor or team
 **Product feature priorities** for all participants in team building process
 
 
+------
 ### Research
 
 The most outwardly focused track in the discovery project is the market research component.  We’ll conduct research across a diverse pool of potential agency partners, vendors and contractors, and potential integration partners.  We’ll also ensure perspectives from existing literature and materials will be represented in a final Market Landscape Report.
@@ -83,6 +84,7 @@ See the integration partner overview document for more information on current ta
 * [Reference](https://github.com/18F/tis-discovery/blob/master/research/report.md)
 
 
+------
 ### Acquisition
 
 The Team Integration System is starting down the path of integrating with professional services acquisitions before HR hiring functions due to the volume of professional services usage, the reduced focus on government hiring at the moment, and the opportunity to form meaningful public / private sector partnerships.  In order to test integrations that could serve our agency partners we need to perform actual acquisitions.  These pilot acquisitions will allow us to execute, evaluate, and tweak the process for continuous improvement, and measure the feasibility of moving ahead with the MVP.
@@ -122,6 +124,7 @@ The Team Integration System is starting down the path of integrating with profes
 * [Reference](https://github.com/18F/tis-discovery/blob/master/acquisition/retro.md)
 
 
+------
 ### Product
 
 The goal of the Team Integration System is to serve as a technology platform for matching, deploying, and managing hybrid employee / contractor cross-functional teams over time.  The product track is focused on initial planning for basic platform functionality and the MVP features it will offer various participants of the team building process.
