@@ -21,3 +21,14 @@ Building highly skilled cross-functional teams within government is very tedious
 This often results in monolithic contracting based on brittle requirements over long multi-year performance periods, where the requirements are themselves often procured separately.  This system is easier to execute but is neither efficient nor cost-effective for actual delivery.  This approach also tends to disadvantage small businesses and independent consultants, who have a lot to offer the government.
 
 Having internal talent that can be flexibly assigned to carry out organizational needs can be an efficient and cost-effective solution.  However, organizations are not able to employ all of the talent they need long-term for financial, political, and logistical reasons.
+
+### Timeline
+* week 1 - 
+* week 2 -
+* week 3 -
+* week 4 -
+* week 5 -
+* week 6 -
+* week 7 -
+* week 8 -
+
