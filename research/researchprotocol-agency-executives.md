@@ -32,7 +32,7 @@ Any questions or concerns before we begin?
 
 ### Warm up
 
-*Please tell us a little about your role and exposure to the our area of interest*
+Please tell us a little about your role and exposure to the our area of interest
 
 ### Questions {more specific than framing questions, and aligned with framing questions}
 
