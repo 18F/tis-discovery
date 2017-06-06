@@ -34,7 +34,8 @@ Any questions or concerns before we begin?
 
 Please tell us a little about your role and exposure to the our area of interest
 
-### Questions {more specific than framing questions, and aligned with framing questions}
+### Questions 
+*more specific than framing questions, and aligned with framing questions*
 
 * How do you go about building a technology-focused team? Project based, staffing an office, doesn’t matter. 
 * What are some of your biggest pain-points? What worries you? 
