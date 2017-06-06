@@ -1,2 +1,5 @@
 # Ignoring Eclipse project files
 .project
+
+# Ignoring Mac files
+.DS_Store
