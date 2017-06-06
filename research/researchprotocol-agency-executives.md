@@ -12,7 +12,7 @@ What do we want to learn? *1-3 broad questions, not necessarily what we’ll ask
 
 Reach out through personal and professional networks
 
-[Email recruitment template](https://docs.google.com/document/d/16LfM8G41lgOWJVfo0BXZZewmeXffoAZJGjyjn5v-4gA/edit#heading=h.px3qhlufvgs9)
+[Recruiting email templates](https://github.com/18F/tis-discovery/blob/master/research/recruiting-email-templates.md) 
 
 **Goal: interview no less than 5 top spending dept/agency/bureau CIOs**
 
