@@ -15,14 +15,12 @@ _Potential questions we could ask include:_
 * Does the agency have special policy restrictions or exemptions?
 * etc...
 
-### Executives
+### Agency Executives
 
 We should attempt to meet with as many executives, including CIOs and CTOs of potential partner agencies, as possible given the discovery timeline and budget to understand larger agency staffing/contracting priorities.
 
-### Portfolio / Division Managers
+Since portfolio and division managers will have a good feel for the needs represented in potential agency partners mission divisions they should be consulted as much as possible to dig into potential in-demand service areas.
 
-Since portfolio and division managers will have a good feel for the needs represented in potential agency partners they should be consulted as much as possible to dig into potential in-demand service areas.
+### Agency Program / Project Managers
 
-### Program Managers
-
-Program managers have the most detailed knowledge of project needs and are often in charge of the hiring and contracting for their projects.
+Program and Project managers have the most detailed knowledge of project needs and are often in charge of the hiring and contracting for their projects.
