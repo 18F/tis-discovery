@@ -5,7 +5,7 @@
 | Name         	   | Role                | Slack Group                                        | Notes...                                                 	   |
 |------------------|---------------------|----------------------------------------------------|--------------------------------------------------------------|
 | **Ric Miller**   | 18F Strategist      | **@tis-discovery-team**<br/>**@tis-research-team** | Full time: May 30 - June 23<br/>Part time: June 26 - July 21 |
-| **Michael Cata** | 18F Strategist      | **@tis-discovery-team**<br/>**tis-research-team**  | Part time: June 8 - July 14                                  |
+| **Michael Cata** | 18F Strategist      | **@tis-discovery-team**<br/>**@tis-research-team**  | Part time: June 8 - July 14                                  |
 | **Adrian Webb**  | 18F Strategist      | **@tis-discovery-team**<br/>**@tis-research-team** | Full time: May 30 - June 23<br/>Part time: June 26 - July 21 |
 | **Lane Becker**  | OPP Portfolio Owner | **@tis-discovery-team**                    	      | Not primarily billable                                       |
 | **Nico Papafil** | OPP Management      | **@tis-discovery-team**                    	      | Not primarily billable                                       |
