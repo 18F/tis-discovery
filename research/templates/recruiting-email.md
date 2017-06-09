@@ -65,9 +65,9 @@ Interview request: help us understand
 ### Message
 Hello {known Agile BPA vendor POC name},
 
-I’m {first researcher name} a researcher at 18F (https://www.18f.gov). My colleagues {second 18F staff} and {third 18f staff} (cc'd), and I are working to better understand the challenges you face when responding to govt RFPs for technologist-based professional services (people not products). We'd also like to hear your thoughts on a few marketplace ideas we're batting around. All/any thoughts and feedback you're willing to offer will be kept in confidence, and any notes we take will not be attributed to you.
+I’m {first researcher name} a researcher at 18F (https://www.18f.gov). My colleagues {second 18F staff} and {third 18f staff} (cc'd), and I are working to better understand the challenges you face when responding to govt RFPs for technologist-based professional services (people not products). All/any thoughts and feedback you're willing to offer will be kept in confidence, and any notes we take will not be attributed to you.
 
-**Can you, or a member of your team, spare 50 minutes over the next 2 weeks to speak with us?** To make it as easy as possible, we can conduct the interview remotely using Google Hangouts (if that works for you), or a phone call. Whichever you prefer.
+**Can you, or a member of your team, spare 50-60 minutes over the next 2 weeks to speak with us?** To make it as easy as possible, we can conduct the interview remotely using Google Hangouts (if that works for you), or a phone call. Whichever you prefer.
 
 We appreciate you taking the time to review our request and we hope to speak with you soon.
 
