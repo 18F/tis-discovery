@@ -22,13 +22,6 @@ This often results in monolithic contracting based on brittle requirements over 
 
 Having internal talent that can be flexibly assigned to carry out organizational needs can be an efficient and cost-effective solution.  However, organizations are not able to employ all of the talent they need long-term for financial, political, and logistical reasons.
 
-### Timeline
-* week 1 - 
-* week 2 -
-* week 3 -
-* week 4 -
-* week 5 -
-* week 6 -
-* week 7 -
-* week 8 -
+### Process
 
+Have a look at our [strategy](https://github.com/18F/tis-discovery/blob/master/management/strategy.md) or [timeline](https://github.com/18F/tis-discovery/blob/master/management/timeline.md) to learn more about the project.
