@@ -2,7 +2,7 @@
 ## Project Timeline
 
 
-For a detailed breakdown, see the [Project Budget](https://docs.google.com/spreadsheets/d/1zLQzgmpPoGzMoD1YQEaLY0w5YWK16V9GdTE5YFumekU/edit) Weekly Timeline sheet
+For a detailed breakdown, see the [Project Budget](https://docs.google.com/spreadsheets/d/1zLQzgmpPoGzMoD1YQEaLY0w5YWK16V9GdTE5YFumekU/edit) **Weekly Timeline** sheet
 
 ----
 * Week **#1** (**5/29**) - Planning acquisition and research strategy and setting up project resources
