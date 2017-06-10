@@ -10,21 +10,19 @@ This document outlines the general discovery strategy employed for the Team Inte
 
 The goal of the Team Integration System (TIS) is to help redefine the government labor market and transform how the government builds and manages teams to achieve agency missions.
 
-To achieve this goal, we are researching and potentially building a talent marketplace and online matchmaking platform. TIS is envisioned to help government managers match their budgeted project work with hybrid teams of available, skilled, and interested employees and contractors. By providing an online tool for finding, connecting with, and deploying skilled professionals, managers should be able to assemble effective project teams oriented around specific problems efficiently. The system should automatically generate and finalize approved boilerplate for any contracts with combinations of vendors and HR efficiently.
+To achieve this goal, we are researching and potentially building a talent marketplace and online matchmaking platform, and/or integrating with existing private sector solutions. TIS is envisioned to help government managers match their budgeted project work with hybrid teams of available, skilled, and interested employees and contractors. By providing an online tool for finding, connecting with, and deploying skilled professionals, managers should be able to assemble effective project teams oriented around specific problems efficiently.
 
-This project consists of product discovery to determine the viability of particular approaches, researching the existing federal workforce landscape and regulatory environment, and mapping the professional services acquisition process across vehicles.
+This project consists of product discovery to determine the viability of particular approaches, researching the existing federal workforce landscape and regulatory environment, and documenting the professional services acquisition options we have going forward.
 
 See the [Discovery MOU](https://drive.google.com/file/d/0BwxvcCvwvTB3QUZXSTZyNzdDNkE/view) for more details.
 
 #### Tracks
 
-The TIS discovery project is divided into three tracks; **Research**, **Acquisition**, and **Product**.
+The TIS discovery project is divided into two tracks; **Research** and **Product**.
 
-1. Perform market related research with agency management, vendors and contractors, integration partners, and include perspectives from literature and other materials to produce a clear and confident market research report to guide the product forward, if approved.
+1. Perform market and regulatory related research with agency management, vendors and contractors, integration partners, and include perspectives from literature and other materials to produce a clear and confident market research report to guide the product forward, if approved.
 
-2. Plan, execute, monitor, and report on status of contractor or team acquisitions.  Use these pilot acquisitions to map and engineer processes and generate reusable artifacts and templates for further automation.
-
-3. Submit suggestions for core platform architecture and operational practices, and prioritize MVP features for agency management, vendors, contractors, and acquisition professionals.  Possibly provide mockups of feature interfaces or integrations.
+2. Document potential product strategy and possible core platform architecture and operational practices, and prioritize MVP features for agency management, vendors, contractors, and acquisition professionals.  Possibly provide mockups of feature interfaces or integrations.
 
 #### Team
 
@@ -34,9 +32,7 @@ This discovery project is managed through collaborative standards that live in t
 
 **Market Landscape Report** that highlights agency demand, likely vendor and contractor participation, acquisition recommendations, and potentially viable business models
 
-At least one successful **pilot acquisition** of a contractor or team
-
-**Repeatable acquisition strategies** with **reusable template artifacts**
+**Repeatable acquisition strategies** with potential **reusable template artifacts**
 
 **Core platform** recommendations
 
@@ -82,46 +78,6 @@ See the integration partner overview document for more information on current ta
 **MOU Directive**: Synthesize data and insights gathered into a market landscape report, that summarizes agency demand, explores likely vendor participation across the size classifications, and offers acquisition recommendations based on research findings.
 
 * [Reference](https://github.com/18F/tis-discovery/blob/master/research/report.md)
-
-
-------
-### Acquisition
-
-The Team Integration System is starting down the path of integrating with professional services acquisitions before HR hiring functions due to the volume of professional services usage, the reduced focus on government hiring at the moment, and the opportunity to form meaningful public / private sector partnerships.  In order to test integrations that could serve our agency partners we need to perform actual acquisitions.  These pilot acquisitions will allow us to execute, evaluate, and tweak the process for continuous improvement, and measure the feasibility of moving ahead with the MVP.
-
-* Folder: [Integration partners](https://drive.google.com/drive/folders/0B7HrEbLy1aMQMWJVVnpGekY2Unc)
-* Folder: [Customers](https://drive.google.com/drive/folders/0B7HrEbLy1aMQMjJ3OGJMVURPOFU)
-* [Customer reference](https://github.com/18F/tis-discovery/blob/master/acquisition/customers.md)
-
-#### Strategy
-
-**MOU Directive**: Research and choose a suitable professional services acquisition strategy for professional services acquisition pilot.
-
-* [Reference](https://github.com/18F/tis-discovery/blob/master/acquisition/strategies.md)
-
-#### Execution
-
-**MOU Directive**: Perform one or more professional services acquisitions and develop a process map that can guide automation.
-
-* [Reference](https://github.com/18F/tis-discovery/blob/master/acquisition/execution.md)
-
-#### Process Engineering
-
-**MOU Directive**: Compile documentation and boilerplate legal templates for potential acquisition strategies employing professional services acquisitions, potential and existing collaborators, and legal limitations.
-
-* [Reference](https://github.com/18F/tis-discovery/blob/master/acquisition/process-engineering.md)
-
-#### Post Award Management Evaluation
-
-**MOU Directive**: Evaluate and provide advice on post award management of professional services contractors.
-
-* [Reference](https://github.com/18F/tis-discovery/blob/master/acquisition/post-award-evaluation.md)
-
-#### Retros
-
-**MOU Directive**: Evaluate the results of completed professional services acquisitions and document what went well, what did not go well, how we can improve, and alter any existing process maps.
-
-* [Reference](https://github.com/18F/tis-discovery/blob/master/acquisition/retro.md)
 
 
 ------
