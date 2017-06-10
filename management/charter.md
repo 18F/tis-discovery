@@ -28,16 +28,12 @@ We are conducting a Team Integration System discovery that will consist of marke
 
 * We’ll adopt and follow a [Discovery Strategy](https://github.com/18F/tis-discovery/blob/master/management/strategy.md) for the life of the discovery project.  We’ll amend the strategy through team consensus.  The Portfolio Owner, representing the client, will be a tie breaker if we can’t reach consensus.
 
-* Each of us will lead one track of research, and we’ll collaborate closely on deliverables and communication.
-
 #### Partnerships
-
-* We’ll work closely with the TTS Operations and Agreements teams to process any acquisitions with OPP efficiently and document the process and agreement language
 
 * We’ll work closely with the TTS security team to plan security features into the MVP recommendations
 
-* We’ll figure out with TTS Acquisitions the best way to integrate or avoid competing with their procurement vision and services
+* We’ll try to figure out with TTS Acquisitions the best way to integrate or avoid competing with their procurement vision and services
 
-* We’ll work closely with FAS/TTS COs, OGC, and the GSA CIO to help process any pilot acquisition agreements efficiently
+* We’ll work closely with FAS/TTS COs, OGC, and the GSA CIO to help document the acquisitions process
 
-* We’ll form working partnerships with FAS/TTS acquisition partners, vendors, independent contractors, and agency management needing skilled professionals to temporarily augment their operational capacity
+* We’ll explore partnerships with FAS/TTS acquisition partners, vendors, independent contractors, and agency management needing skilled professionals to temporarily augment their operational capacity
