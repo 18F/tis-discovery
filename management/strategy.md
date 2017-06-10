@@ -24,9 +24,11 @@ The TIS discovery project is divided into two tracks; **Research** and **Product
 
 2. Document potential product strategy and possible core platform architecture and operational practices, and prioritize MVP features for agency management, vendors, contractors, and acquisition professionals.  Possibly provide mockups of feature interfaces or integrations.
 
+See the [timeline](https://github.com/18F/tis-discovery/blob/master/management/timeline.md) for more information on weekly focus areas during the course of the project.
+
 #### Team
 
-This discovery project is managed through collaborative standards that live in the [Discovery Team Charter](https://github.com/18F/tis-discovery/blob/master/management/charter.md).  The team charter outlines all operational guidelines for the team, and defines governance procedures for the discovery strategy.
+This discovery project is managed through collaborative standards that live in the [Discovery Team Charter](https://github.com/18F/tis-discovery/blob/master/management/charter.md).  The team charter outlines all operational guidelines for [the team](https://github.com/18F/tis-discovery/blob/master/management/team.md), and defines governance procedures for the discovery strategy.
 
 #### Deliverables
 
