@@ -6,21 +6,16 @@
 
 We will approach various potential agency partners that have a probable need of building cross-functional teams of a temporary nature.  It is important that we get a representative sample of small to large agencies to help understand a more complete agency landscape.
 
-_Potential questions we could ask include:_
+See the [agency management research protocols](https://github.com/18F/tis-discovery/blob/master/research/protocols/agency-management.md) for more information about the agency manager interview process.
 
-* Is this a type of service the agency would use and pay for?
-* What are the most important considerations for bringing in temporary help?
-* What kind of issues do agencies face in building effective teams?
-* What kinds of professions are potentially most valuable to the agency?
-* Does the agency have special policy restrictions or exemptions?
-* etc...
+See the [recruiting email templates](https://github.com/18F/tis-discovery/blob/master/research/templates/recruiting-email.md) for an introductory interview request for various types of agency management.
 
 ### Agency Executives
 
-We should attempt to meet with as many executives, including CIOs and CTOs of potential partner agencies, as possible given the discovery timeline and budget to understand larger agency staffing/contracting priorities.
+We will meet with executives, including CIOs and CTOs of partner agencies to understand larger agency staffing/contracting priorities.
 
-Since portfolio and division managers will have a good feel for the needs represented in potential agency partners mission divisions they should be consulted as much as possible to dig into potential in-demand service areas.
+We will meet with portfolio and division managers that have a good feel for the needs represented in agency partners mission divisions.
 
 ### Agency Program / Project Managers
 
-Program and Project managers have the most detailed knowledge of project needs and are often in charge of the hiring and contracting for their projects.
+We will meet with Program and Project managers have the most detailed knowledge of project needs and are often in charge of the hiring and contracting for their projects.
