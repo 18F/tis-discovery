@@ -21,9 +21,7 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Integration Partner Research
     * Literature / Material Review
     * Acquisition Strategy / Policy Research
-  * **Acquisition**
     * Acquisition Process Evaluation
-    * Acquisition Execution _(if possible)_
 
 ----
 * Week **#3** (**6/12**) - Starting to conduct interviews and synthesis across the research groups, and beginning to conceptualize a core service platform and marketplace
@@ -33,9 +31,7 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Integration Partner Research
     * Literature / Material Review
     * Acquisition Strategy / Policy Research
-  * **Acquisition**
     * Acquisition Process Evaluation
-    * Acquisition Execution _(if possible)_
   * **Product**
     * Core Platform Architecture
 
@@ -47,10 +43,7 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Integration Partner Research
     * Literature / Material Review
     * Acquisition Strategy / Policy Research
-  * **Acquisition**
     * Acquisition Process Evaluation
-    * Acquisition Execution _(if possible)_
-    * Post Award Management Evaluation _(if possible)_
   * **Product**
     * Core Platform Architecture
     * Agency Management Product Features
@@ -67,10 +60,7 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Literature / Material Review
     * Market Landscape Report
     * Acquisition Strategy / Policy Research
-  * **Acquisition**
     * Acquisition Process Evaluation
-    * Acquisition Execution _(if possible)_
-    * Post Award Management Evaluation _(if possible)_
   * **Product**
     * Core Platform Architecture
     * Agency Management Product Features
@@ -86,10 +76,7 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Agency Management Research
     * Literature / Material Review
     * Acquisition Strategy / Policy Research
-  * **Acquisition**
     * Acquisition Process Evaluation
-    * Acquisition Execution _(if possible)_
-    * Post Award Management Evaluation _(if possible)_
   * **Product**
     * Core Platform Architecture
     * Agency Management Product Features
@@ -105,10 +92,7 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Agency Management Research
     * Literature / Material Review
     * Acquisition Strategy / Policy Research
-  * **Acquisition**
     * Acquisition Process Evaluation
-    * Acquisition Execution _(if possible)_
-    * Post Award Management Evaluation _(if possible)_
   * **Product**
     * Core Platform Architecture
     * Agency Management Product Features
@@ -123,8 +107,6 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Vendor Research
     * Agency Management Research
     * Literature / Material Review
-  * **Acquisition**
-    * Post Award Management Evaluation _(if possible)_
   * **Product**
     * Core Platform Architecture
     * Agency Management Product Features
@@ -137,5 +119,3 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
   * **Research**
     * Market Landscape Report
     * Literature / Material Review
-  * **Acquisition**
-    * Post Award Management Evaluation _(if possible)_
