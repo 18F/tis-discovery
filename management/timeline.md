@@ -59,7 +59,6 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Integration Partner Research
     * Literature / Material Review
     * Market Landscape Report
-    * Acquisition Strategy / Policy Research
     * Acquisition Process Evaluation
   * **Product**
     * Core Platform Architecture
@@ -75,8 +74,6 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Vendor Research
     * Agency Management Research
     * Literature / Material Review
-    * Acquisition Strategy / Policy Research
-    * Acquisition Process Evaluation
   * **Product**
     * Core Platform Architecture
     * Agency Management Product Features
@@ -91,8 +88,6 @@ For a detailed breakdown, see the [Project Budget](https://docs.google.com/sprea
     * Vendor Research
     * Agency Management Research
     * Literature / Material Review
-    * Acquisition Strategy / Policy Research
-    * Acquisition Process Evaluation
   * **Product**
     * Core Platform Architecture
     * Agency Management Product Features
