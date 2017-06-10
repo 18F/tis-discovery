@@ -6,7 +6,7 @@
 
 The discovery project will approach various potential integration partners that provide professional services acquisitions capabilities to federal government managers.  It is important that we include multiple integration partners in our research to help understand the range of possibilities in meeting government temporary staffing needs.
 
-See the [integration partner research protocols](https://github.com/18F/tis-discovery/blob/master/research/protocols/integration-partner.md) for more information about the integration partner interview process.
+See the [integration partner research protocols](https://github.com/18F/tis-discovery/blob/master/research/protocols/integration-partners.md) for more information about the integration partner interview process.
 
 See the [recruiting email templates](https://github.com/18F/tis-discovery/blob/master/research/templates/recruiting-email.md) for an introductory interview request for potential integration partners.
 
