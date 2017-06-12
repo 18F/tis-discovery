@@ -34,11 +34,11 @@ This discovery project is managed through collaborative standards that live in t
 
 **Market Landscape Report** that highlights agency demand, likely vendor and contractor participation, acquisition recommendations, and potentially viable business models
 
-**Repeatable acquisition strategies** with potential **reusable template artifacts**
+**List of common hurdles and objections** with potential **solutions to explore**
 
-**Core platform** recommendations
+**Core platform** recommendations _(if recommended to proceed)_
 
-**Product feature priorities** for all participants in team building process
+**Product feature priorities** for all participants in team building process _(if recommended to proceed)_
 
 
 ------
