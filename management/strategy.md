@@ -18,7 +18,7 @@ See the [Discovery MOU](https://drive.google.com/file/d/0BwxvcCvwvTB3QUZXSTZyNzd
 
 #### Tracks
 
-The TIS discovery project is divided into two tracks; **Research** and **Product**.
+The TIS discovery project is divided into two tracks; **Market/Capability Research** and **Product Development Research**.
 
 1. Perform market and regulatory related research with agency management, vendors and contractors, integration partners, and include perspectives from literature and other materials to produce a clear and confident market research report to guide the product forward, if approved.
 
@@ -42,7 +42,7 @@ This discovery project is managed through collaborative standards that live in t
 
 
 ------
-### Research
+### Market / Capability Research
 
 The most outwardly focused track in the discovery project is the market research component.  We’ll conduct research across a diverse pool of potential agency partners, vendors and contractors, and potential integration partners.  We’ll also ensure perspectives from existing literature and materials will be represented in a final Market Landscape Report.
 
@@ -83,7 +83,7 @@ See the integration partner overview document for more information on current ta
 
 
 ------
-### Product
+### Product Development Research
 
 The goal of the Team Integration System is to serve as a technology platform for matching, deploying, and managing hybrid employee / contractor cross-functional teams over time.  The product track is focused on initial planning for basic platform functionality and the MVP features it will offer various participants of the team building process.
 
