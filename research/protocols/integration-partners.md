@@ -41,6 +41,7 @@ Please tell us a little about your role and exposure to the our area of interest
 
 * What are the most important considerations for acquiring temporary help?
 * What kind of issues do acquisitions professionals face in staffing effective teams?
+     * Are you aware of any statutory, regulatory, and/or policy hurdles? 
 * What kinds of professions are most in-demand from agency users of professional services acquisitions?
 * Do certain agencies have special policy restrictions or exemptions that help or hurt professional services acquisitions?
 * What is your service pricing model?
