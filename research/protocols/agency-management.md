@@ -17,6 +17,8 @@ Reach out through personal and professional networks.  Approach a diverse agency
 
 [Recruiting email template](https://github.com/18F/tis-discovery/blob/master/research/templates/recruiting-email.md#agency-executive)
 
+**Goal: interview IT executives from no less than 10 agencies**
+
 
 ## Interview/conversation guide
 
@@ -24,29 +26,28 @@ Reach out through personal and professional networks.  Approach a diverse agency
 
 Interviews can be conducted tutti (the whole team) or as a pair (one interviewer and one recorder). More on this in the [18F method card on interviews](https://methods.18f.gov/discover/stakeholder-and-user-interviews/).
 
-__Note: All team members recording or conducting interviews must be familiar with research ethics and, specifically, PII concerns. The team will huddle about this before the first TTS-external interview.__
+All team members recording or conducting interviews must be familiar with research ethics and, specifically, PII concerns. The team will huddle about this before the first TTS-external interview.
 
 
-## Affinity Diagramming
+### Intro _(5 minutes)_
 
-Structuring the team’s gathered information and observations into findings and themes. More on this in the [method card on affinity diagramming](https://methods.18f.gov/decide/affinity-diagramming/).
+*Thank you for taking the time to speak with us today.*
+
+*We like to start by getting a housekeeping item out of the way. When conducting research at 18F we take a moment to ensure there is “informed consent” to conduct the interview. “Informed consent” is a fancy way of saying “make sure that participants know what they’re getting into and are okay with it.” We will take notes today but those notes will not be attributed to your name. At the conclusion of our research it’s likely that we will create a document outlining our findings, and we **may** use direct quotations from the notes today, but - again - these, if used, would not be attributed to you. We may also publish these research findings publicly using a publicly available Github repository which we’re happy to share with you. The raw notes from our conversation today will **not** be published.*
+
+*You don’t have to answer any question you don’t want to answer, at any time you can ask us to stop taking notes, and we can stop at any point.*
+
+*Any questions or concerns before we begin?*
 
 
-### Intro
+### Warm up _(10 minutes)_
 
-Thank you for taking the time to speak with us today.
+*Ok, now that we’re past the bureaucratic stuff, let’s get started.  We’re working to better understand the challenges agencies face when building technology teams to meet agency missions.*  We are very interested in learning how agencies, such as yours, leverage both employees and contractors to complete projects, and what you would ideally like to see in this process.
 
-We are working to better understand the challenges agencies face when forming project teams of federal and contractor staff. We’re specifically interested in your experience forming teams of technologists, and managing teams composed of both feds and contractors. Learning more about this space and your challenges will help us work to lower hurdles and improve the experience.
+Please tell us a little about your agency role and exposure to the technology team building process
 
-You don’t have to answer any question you don’t want to answer and we can stop at any point.
 
-Any questions or concerns before we begin?
-
-### Warm up
-
-Please tell us a little about your role and exposure to the our area of interest
-
-### Questions
+### Questions _(25 minutes)_
 
 *more specific than framing questions, and aligned with framing questions*
 
@@ -69,8 +70,10 @@ Please tell us a little about your role and exposure to the our area of interest
   * If technology could be useful, how would a government wide shared service be positioned to best suit your needs in the future?
 
 
-### Wrap up
+### Wrap up _(10 minutes)_
 
 * Any last thoughts? Anything we should have asked about but did not?
-* Who else might we talk to? Any colleagues? Anyone in particular who knows a lot about this space or has a different perspective?
+
+* Who else might we talk to? Any colleagues? Anyone in particular who knows a lot about this space or has a different perspective? **try to get a name before getting off the call**
+
 * Thanks so much! This has been really helpful. Please feel free to reach out if you think of anything else.
