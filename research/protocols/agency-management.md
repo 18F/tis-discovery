@@ -53,7 +53,8 @@ Please tell us a little about your agency role and exposure to the technology te
 
 1. **Current processes**
   * How do you build technology teams today to meet the agency mission?
-  * Do you tend to scope project work or use professional services augmentation capabilities, or both?
+  * What's your strategy for workforce planning? What skills do you always have on staff? What are more flexible?
+  * Do you stick with scoped project work or find yourself using professional services augmentation capabilities, both?
   * How do employees work with vendors and contractors?
   * How quickly can your agency scale staffing and vendor support with project needs?
   * Can you employ hiring authorities or other non acquisition routes to onboard temporary help?
