@@ -50,20 +50,20 @@ All team members recording or conducting interviews must be familiar with resear
 ### Questions _(25 minutes)_
 
 1. **Current processes**
-  * How do you supply technology services to federal agencies today?
-  * Do you provide professional services capabilities (providing people instead of project deliverables)?
-  * Do you ever work with other companies in providing technology services, and if so, how?
+  * How do you ~~supply technology services~~ deploy teams to federal agencies today? 
+  * ~~Do you provide professional~~ How do you determine the skills and capabilities needed to deliver services? (providing people instead of project deliverables)?
+  * Do you ever work with other companies in providing technology services, and if so, how? How do you configure those teams or establish ways of working between all the parties?
 
 2. **Successes and limitations**
-  * What are easiest or the most successful aspects of working effectively with the government in providing technology services?
-  * What are some of your biggest pain-points in the process of providing technology services?
+  * What are easiest or the most successful aspects of ~~working effectively~~ workforce planning with the government in providing technology services?
+  * What are some of your biggest pain-points staffing projects? ~~in the process of providing technology services?~~
   * Are there particular challenges you face, such as policies, talent, agency processes, etc… that get in your way of providing efficient and quality service to the government?  
 
 3. **Priorities and wishes**
   * How do you prioritize what kinds of technology service opportunities you seek to provide to the government?
-  * If you could have anything you wanted to supply quality technology services more efficiently what would that be?
+  * If you could have ~~anything~~ information ~~you wanted~~ to supply quality technology services more efficiently what would that be?
   * Would technology be useful to solving some of your issues?  If so, how?
-  * If technology could be useful, how would a government wide shared service be positioned to best suit your needs in the future?
+  * ~~If technology could be useful, how would a government wide shared service be positioned to best suit your needs in the future?~~ If you had a magic wand, how would you plan your workforce and staff project teams?
 
 
 ### Wrap up _(10 minutes)_
