@@ -1,10 +1,10 @@
-# **Research protocol: Agency executives**
+# **Research protocol: Portfolio Managers**
 
 ## Framing questions
 
 What do we want to learn? *1-3 broad questions, not necessarily what we’ll ask in interviews.*
 
-1. **How are you building internal technology teams to meet your project needs today, and do you ever employ hybrid employee / contractor teams?**
+1. **How are you building internal technology teams to meet your portfolio project needs today, and do you ever employ hybrid employee / contractor teams?**
 
 2. **What are the biggest successes and obstacles you have had when composing and operating technology teams?  We are very interested in any scenarios where professional services are used to complement existing employees efforts.**
 
@@ -17,7 +17,7 @@ Reach out through personal and professional networks.  Approach a diverse agency
 
 [Recruiting email template](https://github.com/18F/tis-discovery/blob/master/research/templates/recruiting-email.md#agency-executive)
 
-**Goal: interview IT executives from no less than 10 agencies**
+**Goal: interview no less than 5 IT portfolio managers**
 
 
 ## Interview/conversation guide
@@ -44,7 +44,7 @@ All team members recording or conducting interviews must be familiar with resear
 
 *Ok, now that we’re past the bureaucratic stuff, let’s get started.  We’re working to better understand the challenges agencies face when building technology teams to meet agency missions.*  We are very interested in learning how agencies, such as yours, leverage both employees and contractors to complete projects, and what you would ideally like to see in this process.
 
-Please tell us a little about your agency role and exposure to the technology team building process
+Please tell us a little about your portfolio mission and exposure to the technology team building process
 
 
 ### Questions _(25 minutes)_

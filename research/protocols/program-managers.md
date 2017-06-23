@@ -1,4 +1,4 @@
-# **Research protocol: Agency executives**
+# **Research protocol: Program Managers**
 
 ## Framing questions
 
@@ -17,7 +17,7 @@ Reach out through personal and professional networks.  Approach a diverse agency
 
 [Recruiting email template](https://github.com/18F/tis-discovery/blob/master/research/templates/recruiting-email.md#agency-executive)
 
-**Goal: interview IT executives from no less than 10 agencies**
+**Goal: interview no less than 5 IT program managers**
 
 
 ## Interview/conversation guide
@@ -44,7 +44,7 @@ All team members recording or conducting interviews must be familiar with resear
 
 *Ok, now that we’re past the bureaucratic stuff, let’s get started.  We’re working to better understand the challenges agencies face when building technology teams to meet agency missions.*  We are very interested in learning how agencies, such as yours, leverage both employees and contractors to complete projects, and what you would ideally like to see in this process.
 
-Please tell us a little about your agency role and exposure to the technology team building process
+Please tell us a little about your program and exposure to the technology team building process
 
 
 ### Questions _(25 minutes)_
@@ -52,15 +52,14 @@ Please tell us a little about your agency role and exposure to the technology te
 *more specific than framing questions, and aligned with framing questions*
 
 1. **Current processes**
-  * How do you build technology teams today to meet the agency mission?
+  * How do you build technology teams today to meet the program mission?
   * What's your strategy for workforce planning? What skills do you always have on staff? What are more flexible?
   * Do you stick with scoped project work or find yourself using professional services augmentation capabilities, both?
   * How do employees work with vendors and contractors?
-  * How quickly can your agency scale staffing and vendor support with project needs?
-  * Can you employ hiring authorities or other non acquisition routes to onboard temporary help?
+  * How quickly can your program scale staffing and vendor support with project needs?
 
 2. **Successes and limitations**
-  * What is the most successful process you have found for building technology teams in your agency?
+  * What is the most successful process you have found for building technology teams for your program?
   * What are some of your biggest pain-points in the process of building and managing teams?
   * What expertise, internal processes or policies, and/or statutes/regs/memos help your efforts? Which ones hurt your efforts?
 
